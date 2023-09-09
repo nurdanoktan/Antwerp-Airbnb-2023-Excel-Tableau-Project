@@ -24,7 +24,7 @@ The project aims to provide answers to essential questions that every potential 
 
 ## Data Preparation
 
-- The `airbnb_antwerp_2023_dataset` Excel file includes the dataset with listings and calendar tables.
+- The `airbnb_antwerp_2023_dataset.zip` file includes the dataset with listings and calendar tables.
 - Joined two essential tables, namely `listings` and `calendar`, to enrich the dataset for more comprehensive analysis. This data preparation step enabled me to perform better analytics and generate the visualizations you'll find in the dashboard.
 
 ### Interactive Exploration
