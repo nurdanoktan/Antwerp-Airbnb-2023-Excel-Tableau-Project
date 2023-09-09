@@ -1,5 +1,12 @@
 # Antwerp-Airbnb-2023-Excel-Tableau-Project
 
+
+![image](https://github.com/nurdanoktan/Antwerp-Airbnb-2023-Excel-Tableau-Project/assets/112075689/532bcb39-15b9-46b9-a915-5a383bd8fe32)
+
+
+**[Explore the Dashboard](https://public.tableau.com/app/profile/nurdan.oktan/viz/Airbnb_Antwerp_2023/Dashboard1)**
+
+
 ## Overview
 
 Welcome to the Antwerp Airbnb Investment Analysis project! This repository is dedicated to helping individuals interested in the Airbnb business in Antwerp make informed decisions. The 2023 Antwerp Airbnb dataset from [Inside Airbnb](http://insideairbnb.com/get-the-data/) has been transformed into an interactive dashboard filled with valuable insights.
@@ -30,5 +37,3 @@ The project aims to provide answers to essential questions that every potential 
 ### Interactive Exploration
 
 The Tableau-based interactive dashboard allows you to explore the data effortlessly. You can filter listings by room type, review score, occupancy rate, and the number of bedrooms. Additionally, you have the flexibility to highlight specific neighborhoods to focus your analysis on particular areas of interest.
-
-**[Explore the Dashboard](https://public.tableau.com/app/profile/nurdan.oktan/viz/Airbnb_Antwerp_2023/Dashboard1)**
